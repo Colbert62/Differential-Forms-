@@ -1,0 +1,4 @@
+import numpy as np
+import pandas as pd
+
+#This will be a code that calculates the wedge product.
